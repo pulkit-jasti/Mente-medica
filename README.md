@@ -1,5 +1,5 @@
-# Mente Medica
-Welcome to the awesome repository of the project Mente Medica by team Bit_Bots.
+# Mente-Medica
+Welcome to the awesome repository of the project Mente-Medica by team Bit_Bots.
 
 Before you start running your mind to guess what does the project name even mean (which is a great mental expercise BTW), we would like to share little statictics related to Mental Health with you -
 
@@ -13,4 +13,12 @@ Because even if you are in a happy state of mind, you should care because your l
 
 And then you want to live in a happier world, don't you?
 
-# 
+# How does our solution fit into all this?
+
+We researched and found out that your lifestyle plays a colossal role in your mental health. Enjoying life, Physical exercises, Yoga, Food, Music and even the content you consume plays a hefty role in how you feel in your life; in the long run it decides your mental state, success and happiness in a relationship. As long as these elements maintain that sweet spot in your lifestyle, you might never even face any mental health issues and if you are facing some already, they will help you to come out of it quickly.
+
+Ha, we know that you have already heard that somewhere, so let's get to the point!
+
+We 
+
+Yes, you'll find some apps that try to solve this problem, but they are not able to accomplish it. Either they are too dull to be of any help in cheering up the user or they are so monotonous that the user loses interest in them. 
