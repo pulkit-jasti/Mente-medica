@@ -1,5 +1,5 @@
 # Mente-Medica
-Welcome to the repository of the project Mente-Medica by team Bit_Bots.
+Welcome to the repository of the project Mente-Medica by team Bit_Bots. ![Project logo](https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/logo.png)
 
 Before you start running your mind to guess what does the project name even mean (which is a great mental expercise BTW), we would like to share little statictics related to Mental Health with you -
 
@@ -23,6 +23,9 @@ We built you a buddy or a girlfriend/boyfriend (only if you are single XD) which
 
 # How is it different from the apps you find in the market
 
-Yes, you'll find some apps on Playstore and Appstore that try to solve this problem, but they are not able to fully accomplish it. Either they are too dull to be of any help in cheering up the user or they are so monotonous that the user loses interest in them. 
+Yes, you'll find some apps on Playstore and Appstore that try to solve this problem, but they are not able to fully accomplish it. Either they are too dull to be of any help in cheering up the user or they are so monotonous that the user has do download several of them. 
 
-Our app makes use of Machine Learning along with Face detection to make all the selections for you according according to your mood just like your best friend does :) The app also provide an all in one experience by not just telling you what to do but also how to do it, because it is working on the power of databases from verified sources.
+Our app makes use of Machine Learning along with Face detection to make all the selections for you according to your mood just like your best friend does :) This app also provides an all in one experience by not just telling you what to do but also how to do it, because it works on the power of databases from verified sources.
+
+![Team logo](https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/bit_bots.png)
+
