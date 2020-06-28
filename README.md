@@ -19,6 +19,7 @@ We researched and found out that your lifestyle plays a colossal role in your me
 
 Ha, we know that you have already heard that somewhere, so let's get to the point!
 
-We 
+We built you a buddy or a girlfriend/boyfriend (only if you are single XD) which will always be present for you, right in your mobile. Someone who won't judge you, rather just show you the coolest things on Earth (and maybe Neptune as well; could get too cold), someone that will teach you good habits like exercising, eating healthy diet and laughing.
 
+# How is it different from the apps you find in the market
 Yes, you'll find some apps that try to solve this problem, but they are not able to accomplish it. Either they are too dull to be of any help in cheering up the user or they are so monotonous that the user loses interest in them. 
