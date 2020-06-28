@@ -23,5 +23,6 @@ We built you a buddy or a girlfriend/boyfriend (only if you are single XD) which
 
 # How is it different from the apps you find in the market
 
-Yes, you'll find some apps on Playstore and Appstore that try to solve this problem, but they are not able to accomplish it. Either they are too dull to be of any help in cheering up the user or they are so monotonous that the user loses interest in them. 
+Yes, you'll find some apps on Playstore and Appstore that try to solve this problem, but they are not able to fully accomplish it. Either they are too dull to be of any help in cheering up the user or they are so monotonous that the user loses interest in them. 
 
+Our app makes use of Machine Learning along with Face detection to make all the selections for you according according to your mood just like your best friend does :) The app also provide an all in one experience by not just telling you what to do but also how to do it, because it is working on the power of databases from verified sources.
