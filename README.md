@@ -84,7 +84,7 @@ We faced the challenge of achieving the maximum accuracy in our mood detector an
 
 # Features in the Future -
 
-
+We plan to add a live face recognition feature that will automatically detect the user's mood from their facial expression and provide a more dynamic content based on the changing mood of the user.
 
 ### Adios Amigos :wave:
 
