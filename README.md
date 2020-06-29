@@ -68,6 +68,16 @@ Start your day with Yoga and exercise then treat yourself to a healthy breakfast
 
 <img src="https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/exercises.jpeg" width="270" height="620"> <img src="https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/description.jpeg" width="270" height="620"> <img src="https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/diet.jpeg" width="270" height="620">
 
+# How did we build it?
+
+**Hardware** - Only your mobile! That's what makes it so practical and scalable. Just install the app and feel the power.
+
+**Programming Languages** - Dart.
+
+**Tools** - Flutter, TensorFlow, .
+
+
+
 # Challenges we ran into -
 
 We faced the challenge of achieving the maximum accuracy in our face recognition based mood detector and therefore get the dynamic content according to the mood. We were trying to find a Machine Learning solution that can help us do this and thus decided to use a pre-trained TensorFlow Light.
