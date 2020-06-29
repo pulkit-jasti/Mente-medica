@@ -93,3 +93,6 @@ We faced the challenge of achieving the maximum accuracy in our face recognition
 A project by the team -
 
 ![Team logo](https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/bit_bots.png)
+
+### Team Members   
+@pulkit-jasti
