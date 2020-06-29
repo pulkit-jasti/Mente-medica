@@ -94,7 +94,7 @@ A project by the team -
 
 ![Team logo](https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/bit_bots.png)
 
-### Team Members   
+## Team Members   
 ![@pulkit-jasti](https://github.com/pulkit-jasti)    
 ![@arpit-kushwaha](https://github.com/aymusbond)    
 ![@divignanesh](https://github.com/Gnaneshdivi)    
