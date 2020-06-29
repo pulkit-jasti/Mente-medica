@@ -31,7 +31,7 @@ Our app makes use of Machine Learning along with Face detection to make all the 
 
 Start your day with Yoga and exercise then treat yourself to a healthy breakfast and then maybe have fun with some inspiring stories and mind soothing music. Not to mention that you can enjoy memes and jokes as well on the app.
 
-![white](https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/white.jpg)![Dank](https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/Dank.png)
+![white](https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/white.png) ![Dank](https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/Dank.png)
 
 ![Team logo](https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/bit_bots.png)
 
