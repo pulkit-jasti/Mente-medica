@@ -80,7 +80,7 @@ Start your day with Yoga and exercise then treat yourself to a healthy breakfast
 
 # Challenges we ran into -
 
-We faced the challenge of achieving the maximum accuracy in our face recognition based mood detector and therefore get the dynamic content according to the mood. We were trying to find a Machine Learning solution that can help us do this and thus decided to use a pre-trained TensorFlow Light.
+We faced the challenge of achieving the maximum accuracy in our mood detector and therefore get the dynamic content according to the mood. We were trying to find a Machine Learning solution that can help us do this and thus decided to use a pre-trained TensorFlow Light.
 
 # Features in the Future -
 
