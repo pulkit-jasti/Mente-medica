@@ -23,7 +23,7 @@ Ha, we know that you have already heard that somewhere, so let's get to the poin
 
 We built you a buddy or a girlfriend/boyfriend (only if you are single XD) which will always be present for you, right in your mobile. Someone who won't judge you, rather just show you the coolest things on Earth (and maybe Neptune as well; could get too cold), someone that will teach you good habits like exercising, eating healthy diet and laughing. But whatever it does, it will be selflessly present to improve the quality of your life.
 
-# How is it different from the apps you find in the market
+# What makes it more awesome than the other Habit tracker apps?
 
 Yes, you'll find some apps on Playstore and Appstore that try to solve this problem, but they are not able to fully accomplish it. Either they are too dull to be of any help in cheering up the user or they are so monotonous that the user has do download several of them. 
 
@@ -33,5 +33,40 @@ Start your day with Yoga and exercise then treat yourself to a healthy breakfast
 
 ![white](https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/white.png) ![Dank](https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/Dank.png)
 
-![Team logo](https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/bit_bots.png)
+# Wanna know the features? 
 
+### Know your stats -
+
+1. Number of steps
+2. Water consumption
+3. Sleep calculator
+
+### Workout that works -
+
+1. Breathing exercises
+2. Stretching exercises
+3. Yoga
+4. Gym
+5. Get reward for completing workout goals.
+
+### Diet plan -
+
+1. Food recommendation
+2. What did you comsume? (calorie consumtion meter)
+3. Food tips
+
+### Fun Zone -
+
+1. Games
+2. Music
+3. Memes
+4. Stories
+5. Videos
+
+# Challenges we ran into -
+
+### Adios Amigos :wave:
+
+A project by team -
+
+![Team logo](https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/bit_bots.png)
