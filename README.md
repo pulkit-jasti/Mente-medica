@@ -74,7 +74,7 @@ Start your day with Yoga and exercise then treat yourself to a healthy breakfast
 
 **Programming Languages** - Dart.
 
-**Tools** - Flutter, TensorFlow, .
+**Tools** - Flutter, TensorFlow.
 
 
 
