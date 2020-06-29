@@ -35,13 +35,13 @@ Start your day with Yoga and exercise then treat yourself to a healthy breakfast
 
 # Wanna know the features? 
 
-### Know your stats -
+### Know your stats :chart_with_upwards_trend: -
 
 1. Number of steps
 2. Water consumption
 3. Sleep calculator
 
-### Workout that works -
+### Workout that works :wrench: -
 
 1. Breathing exercises
 2. Stretching exercises
@@ -49,13 +49,13 @@ Start your day with Yoga and exercise then treat yourself to a healthy breakfast
 4. Gym
 5. Get reward for completing workout goals.
 
-### Diet plan -
+### Stay hungry Stay foolish :sushi: -
 
 1. Food recommendation
 2. What did you comsume? (calorie consumtion meter)
 3. Food tips
 
-### Fun Zone -
+### Fun Zone :musical_score: -
 
 1. Games
 2. Music
