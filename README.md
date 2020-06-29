@@ -23,7 +23,7 @@ Ha, we know that you have already heard that somewhere, so let's get to the poin
 
 We built you a buddy or a girlfriend/boyfriend (only if you are single XD) which will always be present for you, right in your mobile. Someone who won't judge you, rather just show you the coolest things on Earth (and maybe Neptune as well; could get too cold), someone that will teach you good habits like exercising, eating a healthy diet and laughing. But whatever it does, it will be selflessly present to improve the quality of your life.
 
-<img src="https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/start.jpeg" width="300" height="660"> <img src="https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/login.jpeg" width="300" height="660"> <img src="https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/Meter.jpeg" width="300" height="660"> 
+<img src="https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/start.jpeg" width="280" height="640"> <img src="https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/login.jpeg" width="280" height="640"> <img src="https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/Meter.jpeg" width="280" height="640"> 
 
 
 # What makes it more awesome than the other Habit tracker apps?
@@ -66,7 +66,7 @@ Start your day with Yoga and exercise then treat yourself to a healthy breakfast
 4. Stories
 5. Videos
 
-<img src="https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/exercises.jpeg" width="300" height="660"> <img src="https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/description.jpeg" width="300" height="660"> <img src="https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/diet.jpeg" width="300" height="660">
+<img src="https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/exercises.jpeg" width="280" height="640"> <img src="https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/description.jpeg" width="280" height="640"> <img src="https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/diet.jpeg" width="280" height="640">
 
 # Challenges we ran into -
 
