@@ -1,27 +1,27 @@
 # Mente-Medica
 Welcome to the repository of the project Mente-Medica by team Bit_Bots. :green_heart: ![Project logo](https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/logo.png)
 
-Before you start running your mind to guess what does the project name even mean :thinking: (which is a great mental exercise BTW :blue_book:), we would like to share little statictics related to Mental Health with you -
+Before you start running your mind to guess what does the project name even mean :thinking: (which is a great mental exercise BTW: blue_book:), we would like to share little statistics related to Mental Health with you -
 
 ![Statistics](https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/stats.png)
 
-Of course their is more to this data than this part of the table shows, but the question is, would you care to read it?
+Of course, there is more to this data than this part of the table shows, but the question is, would you care to read it?
 
 The complete data can be found [here](https://ourworldindata.org/mental-health)
 
 # Why should you care?
 
-Because even if you are in a happy state of mind, you should care because your loved ones can have to deal with mental disorders. You should care because you live in a society and human beings are a social animal thriving due to each other's support. Gun violence, terrorism and Suicides can all be traced back to some sort of mental sickness. 
+Because even if you are in a happy state of mind, you should care because your loved ones can have to deal with mental disorders. You should care because you live in a society and human beings are a social animal thriving due to each other's support. Gun violence, terrorism, and Suicide can all be traced back to some sort of mental sickness. 
 
 And then you want to live in a happier world, don't you?
 
 # How does our solution fit into all this?
 
-We researched and found out that our lifestyle plays a colossal role in our mental health. Enjoying life, Physical exercises, Yoga, Food, Music and even the content you consume plays a hefty role in how you feel in your life; in the long run it decides your mental state, success and happiness in a relationship. As long as these elements maintain that sweet spot in your lifestyle, you might never even face any mental health issues and if you are facing some already, they will help you to come out of it quickly.
+We researched and found out that our lifestyle plays a colossal role in our mental health. Enjoying life, Physical exercises, Yoga, Food, Music, and even the content you consume plays a hefty role in how you feel in your life; in the long run, it decides your mental state, success, and happiness in a relationship. As long as these elements maintain that sweet spot in your lifestyle, you might never even face any mental health issues and if you are facing some already, they will help you to come out of it quickly.
 
 Ha, we know that you have already heard that somewhere, so let's get to the point!
 
-We built you a buddy or a girlfriend/boyfriend (only if you are single XD) which will always be present for you, right in your mobile. Someone who won't judge you, rather just show you the coolest things on Earth (and maybe Neptune as well; could get too cold), someone that will teach you good habits like exercising, eating healthy diet and laughing. But whatever it does, it will be selflessly present to improve the quality of your life.
+We built you a buddy or a girlfriend/boyfriend (only if you are single XD) which will always be present for you, right in your mobile. Someone who won't judge you, rather just show you the coolest things on Earth (and maybe Neptune as well; could get too cold), someone that will teach you good habits like exercising, eating a healthy diet and laughing. But whatever it does, it will be selflessly present to improve the quality of your life.
 
 <img src="https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/start.jpeg" width="310" height="700"> <img src="https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/login.jpeg" width="310" height="700"> <img src="https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/Meter.jpeg" width="310" height="700"> 
 
@@ -50,12 +50,12 @@ Start your day with Yoga and exercise then treat yourself to a healthy breakfast
 2. Stretching exercises
 3. Yoga
 4. Gym
-5. Get reward for completing workout goals.
+5. Get rewards for completing workout goals.
 
 ### Stay hungry Stay foolish :sushi: -
 
 1. Food recommendation
-2. What did you comsume? (calorie consumtion meter)
+2. What did you consume? (calorie consumption meter)
 3. Food tips
 
 ### Fun Zone :musical_score: -
@@ -70,8 +70,10 @@ Start your day with Yoga and exercise then treat yourself to a healthy breakfast
 
 # Challenges we ran into -
 
+We faced the challenge of achieving the maximum accuracy in our face recognition based mood detector and therefore get the dynamic content according to the mood. We were trying to find a Machine Learning solution that can help us do this and thus decided to use a pre-trained TensorFlow Light.
+
 ### Adios Amigos :wave:
 
-A project by team -
+A project by the team -
 
 ![Team logo](https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/bit_bots.png)
