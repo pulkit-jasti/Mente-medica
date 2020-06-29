@@ -34,7 +34,7 @@ Our app makes use of Machine Learning along with Face detection to make all the 
 
 Start your day with Yoga and exercise then treat yourself to a healthy breakfast and then maybe have fun with some inspiring stories and mind soothing music. Not to mention that you can enjoy memes and jokes as well on the app.
 
-![white](https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/white.png) ![Dank](https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/Dank.png)
+![white](https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/white.png) <img src="https://github.com/lakshmisaibhargavi/mente_medica/blob/master/Pics/meme-flutter.jpeg" width="350" height="250"> 
 
 # Wanna know the features? 
 
