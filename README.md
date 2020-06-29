@@ -30,7 +30,7 @@ We built you a buddy or a girlfriend/boyfriend (only if you are single XD) which
 
 Yes, you'll find some apps on Playstore and Appstore that try to solve this problem, but they are not able to fully accomplish it. Either they are too dull to be of any help in cheering up the user or they are so monotonous that the user has do download several of them. 
 
-Our app makes use of Machine Learning along with Face detection to make all the selections for you according to your mood just like your best friend does :) This app also provides an all in one experience by not just telling you what to do but also how to do it, because it works on the power of databases from verified sources.
+Our app makes use of Machine Learning to make all the selections for you according to your mood just like your best friend does :) This app also provides an all in one experience by not just telling you what to do but also how to do it, because it works on the power of databases from verified sources.
 
 Start your day with Yoga and exercise then treat yourself to a healthy breakfast and then maybe have fun with some inspiring stories and mind soothing music. Not to mention that you can enjoy memes and jokes as well on the app.
 
